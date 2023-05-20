@@ -1,5 +1,5 @@
 # electrical_github
-//https://www.tinkercad.com/things/aicqwHyALNE-frantic-vihelmo/editel
+//https://www.tinkercad.com/things/9mKU5OGVRWl-powerful-blad-juttuli/editel?tenant=circuits
 int ledArray[] = {9,8,7,6,5,4,3,2};
 int count = 0;
 int timer = 50;
